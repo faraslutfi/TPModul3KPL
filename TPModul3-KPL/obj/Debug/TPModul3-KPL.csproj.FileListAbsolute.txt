@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\TPModul3-KPL\TPModul3-KPL\obj\Debug\TPModul3-KPL.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\TPModul3-KPL\TPModul3-KPL\obj\Debug\TPModul3_KPL.Properties.Resources.resources
+C:\Users\asus\source\repos\TPModul3-KPL\TPModul3-KPL\obj\Debug\TPModul3-KPL.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\TPModul3-KPL\TPModul3-KPL\obj\Debug\TPModul3-KPL.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\TPModul3-KPL\TPModul3-KPL\obj\Debug\TPModul3_KPL.Form1.resources
+C:\Users\asus\source\repos\TPModul3-KPL\TPModul3-KPL\bin\Debug\TPModul3-KPL.exe.config
+C:\Users\asus\source\repos\TPModul3-KPL\TPModul3-KPL\bin\Debug\TPModul3-KPL.exe
+C:\Users\asus\source\repos\TPModul3-KPL\TPModul3-KPL\bin\Debug\TPModul3-KPL.pdb
+C:\Users\asus\source\repos\TPModul3-KPL\TPModul3-KPL\obj\Debug\TPModul3-KPL.exe
+C:\Users\asus\source\repos\TPModul3-KPL\TPModul3-KPL\obj\Debug\TPModul3-KPL.pdb
